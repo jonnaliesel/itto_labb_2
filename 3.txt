@@ -3,3 +3,31 @@ Jonna
 
 Kunskapsmål:
 Om CD/CI samt dess anknytning till modern agil systemutveckling och DevOps roll i det avseendet.
+
+CI står för continuous integration
+
+CI (continuous integration) är en kodfilosofi och en samling praxis som får utvecklare
+att implementera små kodändringar och versionshantera kod oftare. Eftersom moderna
+applikationer ofta kräver utveckling i olika pattformar och verktyg behöver vi ett sätt
+att integrera och utvärdera förändrningar i kodbasen. 
+
+Målet för CI är att etablera ett konsekvent och automatiserat sätt att utveckla, packetera
+och testa vår applikation. Det leder till ett bättre sammarbete i teamet och en högre kvalitet på kodbasen.
+
+CD står för continuous delivery / continuous deployment
+
+CD (continuous delivery/deployment) tar vid där CI slutar. CD automatiserar leveransen av
+vår applikation till de olika uppsatta miljöerna. Många utvecklingsteam arbetar i flera olika
+miljöer, till exempel en utvecklingsmiljö, en testing-miljö och en produktionsmiljö och CD
+ser till att det finns ett automatiserat sätt att pusha kodändringar till de olika miljöerna
+
+Att arbeta med CI/CD pipelines gör att teamet levererar kod mer ofta och mer pålitligt.
+Det är ett arbetssätt, en kultur och en samling av praxis för hur vi levererar vår kod.
+
+Motsatsen till att arbeta enligt den principen är att spara stora batches av kod 
+för att sen testa och deploya allt på en gång, vilket kan resultera i fler error och förseningar av releaser. 
+Genom att arbeta enligt CI/CD uppdateras vår kodbas mer frekvent och är alltid levande och i sin senaste version.
+
+Som DevOps sätter vi upp det automatiserade flödet för CI/CD vilket gör att våra utvecklare
+kan fokusera på att uveckla och nå företagsmålen. För CI och CD finns olika ramverk och verktyg där några av de vanligaste är:
+Kubernetes, Jenkins, Ansible, GitHub, BitBucket.
