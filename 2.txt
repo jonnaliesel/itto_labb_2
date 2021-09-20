@@ -11,6 +11,12 @@ Gällande linjeorganisationer fungerar det så att DevOps rollen är till för a
 det vill säga, man behöver inte involvera ett flertal avdelningar och olika team för att hantera problem eller att hålla i gång 
 till exempel en applikation. Detta förblir jobb för de som är DevOps.
 
+Enligt wikipedia är en linjeorganisation en typ av organisation som fördelar ansvar och rapportering till separata funktionella enheter, 
+såsom tillverkning, marknadsföring och produktutveckling. 
+     Det nämns även att de flesta större företagen och statliga verk använder sig bland annat av linjeorganisationsprincipen. 
+
+Det är en hierarkisk struktur med fokus på specialisering.
+
 Enligt cygate.se brukar DevOps-metodologin delas upp på följande vis:
 1. Utveckling 
 2. Bygga applikationen (automatiserat) 
@@ -22,3 +28,4 @@ Enligt cygate.se brukar DevOps-metodologin delas upp på följande vis:
 
 Källor
 cygate.se/blogg/devops-hur-funkar-det/
+sv.wikipedia.org/wiki/Linjeorganisation
