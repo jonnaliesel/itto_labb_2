@@ -3,3 +3,7 @@ Carl
 
 Kunskapsmål:
 Om yrkesrollen DevOps funktion inom systemutvecklingsprojekt och i linjeorganisationer.
+
+Med DevOps syftar man på (oftast) på ett team vars uppgifter inkluderar att utveckla, drifta, testa, integrera och övervaka applikationen i fråga i ett automatiserat flöde. Den fulla hanteringen av en applikation. 
+Gällande linjeorganisationer fungerar det så att DevOps rollen är till för att det är dem som tar hand om allt, det vill säga, 
+man behöver inte involvera ett flertal avdelningar och olika team för att hantera problem eller att hålla i gång till exempel en applikation. Detta förblir jobb för de som är DevOps.
