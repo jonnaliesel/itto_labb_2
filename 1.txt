@@ -1,8 +1,7 @@
 Authors:
 Erik och Ian
 
-Kunskapsmål:
-Om hur Python används inom agil systemutveckling och automatiserade flöden.
+
 
 
 Hur används Python inom agil systemutveckling och automatiserade flöden?
@@ -17,7 +16,7 @@ Mål och visioner formuleras tidigt, istället för att arbeta mot hårda och de
 Agil metodik har dock inget med språket python att göra utan python är ett av många verktyg i ett agilt projekt.
 
 Automatiserade flöden:
-Automatisering innebär att en process fångas upp och tas över av ett datorprogram som utför den på exakt samma sätt varje gång. Genom att programmera en mjukvara med t.ex python så utförs arbetet snabbare och det blir färre fel.
+Automatisering innebär att en process fångas upp och tas över av ett datorprogram som utför den på exakt samma sätt varje gång. Genom att programmera en automatiserande mjukvara med t.ex python så utförs arbetet snabbare och det blir färre fel.
 
 
 
