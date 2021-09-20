@@ -3,3 +3,26 @@ Erik och Ian
 
 Kunskapsmål:
 Om hur Python används inom agil systemutveckling och automatiserade flöden.
+
+
+Hur används Python inom agil systemutveckling och automatiserade flöden?
+
+Agil systemutveckling:
+Agilt från engelskans agile/agility kan översättas till på svenska ”smidighet”.
+
+Agil systemutveckling (agile software development) är ett samlingsnamn för ett arbetssätt inom systemutvecklingsmetoder som användas vid programvaruutveckling.
+Agil systemutveckling betonar bl.a. snabb¬¬het, informellt samarbete, täta kund¬kontakter och möjlig¬het till ändringar under arbetets gång.
+En av grundtankarna i agila metoder är att arbetssättet sker schematiskt och att planer och metoder utvärderas och förbättras löpande.
+Mål och visioner formuleras tidigt, istället för att arbeta mot hårda och detaljerade tekniska krav.
+Agil metodik har dock inget med språket python att göra utan python är ett av många verktyg i ett agilt projekt.
+
+Automatiserade flöden:
+Automatisering innebär att en process fångas upp och tas över av ett datorprogram som utför den på exakt samma sätt varje gång. Genom att programmera en mjukvara med t.ex python så utförs arbetet snabbare och det blir färre fel.
+
+
+
+
+
+https://it-ord.idg.se/ord/agil-systemutveckling/
+https://sv.wikipedia.org/wiki/Agil_systemutveckling
+https://se.ramboll.com/press/artiklar/vad-ar-automatisering
