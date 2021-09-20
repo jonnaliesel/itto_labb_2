@@ -1,1 +1,5 @@
-Authors: Jonna
+Authors:
+Jonna
+
+Kunskapsmål:
+Om CD/CI samt dess anknytning till modern agil systemutveckling och DevOps roll i det avseendet.

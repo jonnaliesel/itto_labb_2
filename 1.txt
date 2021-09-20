@@ -1,1 +1,5 @@
-Authors: Erik och Ian
+Authors:
+Erik och Ian
+
+Kunskapsmål:
+Om hur Python används inom agil systemutveckling och automatiserade flöden.

@@ -1,1 +1,5 @@
-Authors: Carl
+Authors:
+Carl
+
+Kunskapsmål:
+Om yrkesrollen DevOps funktion inom systemutvecklingsprojekt och i linjeorganisationer.
