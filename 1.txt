@@ -1,7 +1,7 @@
 Authors:
 Erik och Ian
 
-
+idag är det måndag
 
 
 Hur används Python inom agil systemutveckling och automatiserade flöden?
