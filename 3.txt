@@ -31,3 +31,6 @@ Genom att arbeta enligt CI/CD uppdateras vår kodbas mer frekvent och är alltid
 Som DevOps sätter vi upp det automatiserade flödet för CI/CD vilket gör att våra utvecklare
 kan fokusera på att uveckla och nå företagsmålen. För CI och CD finns olika ramverk och verktyg där några av de vanligaste är:
 Kubernetes, Jenkins, Ansible, GitHub och BitBucket.
+
+Referenser: 
+https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
