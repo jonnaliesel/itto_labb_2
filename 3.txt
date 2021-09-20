@@ -8,7 +8,7 @@ CI står för continuous integration
 
 CI (continuous integration) är en kodfilosofi och en samling praxis som får utvecklare
 att implementera små kodändringar och versionshantera kod oftare. Eftersom moderna
-applikationer ofta kräver utveckling i olika pattformar och verktyg behöver vi ett sätt
+applikationer ofta kräver utveckling i olika plattformar och verktyg behöver vi ett sätt
 att integrera och utvärdera förändrningar i kodbasen. 
 
 Målet för CI är att etablera ett konsekvent och automatiserat sätt att utveckla, packetera
