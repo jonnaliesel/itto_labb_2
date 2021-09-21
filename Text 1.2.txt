@@ -1,0 +1,31 @@
+Vad är Agile Methodology?
+Agil metodik innebär en praxis som främjar kontinuerlig iteration av utveckling och testning under hela projektets livscykel. I Agile -modellen i mjukvarutestning är både utvecklings- och testaktiviteter samtidiga, till skillnad från Waterfall -modellen.
+
+Vad är Agile Software Development?
+Agile mjukvaruutvecklingsmetodik är en av de enklaste och effektivaste processerna för att förvandla en vision för ett affärsbehov till mjukvarulösningar. Agile är en term som används för att beskriva mjukvaruutvecklingsmetoder som använder kontinuerlig planering, lärande, förbättring, teamsamarbete, evolutionär utveckling och tidig leverans. Det uppmuntrar flexibla svar på förändringar.
+
+Den smidiga mjukvaruutvecklingen betonar fyra kärnvärden.
+Individuella och teaminteraktioner över processer och verktyg
+Arbetsprogramvara över omfattande dokumentation
+Kundsamarbete om kontraktsförhandling
+Svara på att byta om efter en plan
+
+
+Vad är Python Automation?
+För att börja närma dig automatisering med Python måste du först förstå två saker: vad automation är och vad Python är. Du kanske har en uppfattning om vad dessa namn hänvisar till, men det är alltid bra att borsta din kunskap med en mer omfattande definition.
+
+Automation: en process där en manuellt utförd åtgärd omvandlas till en som sker automatiskt.
+
+Processen att automatisera en uppgift är en där ett ramverk aktiveras. Denna ram, för våra ändamål ett programmeringsskript, gör det möjligt för uppgiften att utföras autonomt, på egen hand, utan användarintervention.
+
+Varför skulle någon välja att automatisera en uppgift? Det finns två huvudorsaker.
+
+Att automatisera en uppgift innebär att den kan köras mycket snabbare, för det mesta.
+Att automatisera en uppgift innebär att det finns mindre risk för misstag, eftersom effekterna av mänskliga misstag mildras.
+Python: ett mångsidigt programmeringsspråk som är relativt lätt att lära sig och använda, tack vare dess likhet med det engelska språket och dess öppen källkodslicens.
+
+Python har en vänlig, lättillgänglig syntax som är lätt att läsa och förstå i förhållande till andra programmeringsspråk. Dessutom betyder det att det är öppen källkod att det finns ett stort utbud av verktyg, bibliotek, ramverk och stöd för det. Det är därför Python är ett av programmeringsspråken för att köra enkla automatiseringar.
+
+
+https://www.guru99.com/agile-scrum-extreme-testing.html
+https://www.lighthouselabs.ca/en/blog/how-python-is-used-in-automation
