@@ -34,3 +34,29 @@ Kubernetes, Jenkins, Ansible, GitHub och BitBucket.
 
 Referenser: 
 https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
+
+--------------------------------------------------------------------------------------------------------------------
+
+Author: Jani
+Mål:
+CD/CI samt dess anknytning till modern agil systemutveckling och DevOps roll i det avseendet.
+
+DevOps (Build, test, deploy)
+
+DevOps är ett resultat av den agila metodikens behov av snabba cykler och handlar om samarbetet mellan utveckling (Dev)
+och IT Operations (Ops). Det handlar om att möjliggöra en kultur och miljö där det går att bygga, testa och lansera
+ofta, snabbt och tillförlitligt. Fokus ligger på kulturella och strukturella förändringar med syfte att föra samman de
+somutvecklar och de som ansvarar för infrastrukturen. DevOps utnyttjar CI / CD pipelines för att uppnå snabbare och
+pålitligare produktutveckling.
+
+Continuous integration (CI)
+
+Målet med continuous integration är att minska antalet komplexa kodsammanslagningar genom att kontinuerligt slå ihop
+koden som utvecklas till en gemensam kodbas, helst så fort någon ny funktionalitet eller del av funktionalitet blivit
+klar. Utöver att koden samlas ihop kontinuerligt ska den även byggas och testas automatiskt vid varje incheckning med
+enhetstester för att se att den nya koden inte ger några oväntade följder.
+
+Continuous delivery & deployment (CD)
+
+Med continuous delivery avses att varje bygge teamet levererar kan släppas ut i produktion genom automatiserade flöden
+som vidare testar och deployar koden till kunden.
