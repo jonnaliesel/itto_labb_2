@@ -46,7 +46,7 @@ DevOps (Build, test, deploy)
 DevOps är ett resultat av den agila metodikens behov av snabba cykler och handlar om samarbetet mellan utveckling (Dev)
 och IT Operations (Ops). Det handlar om att möjliggöra en kultur och miljö där det går att bygga, testa och lansera
 ofta, snabbt och tillförlitligt. Fokus ligger på kulturella och strukturella förändringar med syfte att föra samman de
-somutvecklar och de som ansvarar för infrastrukturen. DevOps utnyttjar CI / CD pipelines för att uppnå snabbare och
+som utvecklar och de som ansvarar för infrastrukturen. DevOps utnyttjar CI / CD pipelines för att uppnå snabbare och
 pålitligare produktutveckling.
 
 Continuous integration (CI)
@@ -60,3 +60,7 @@ Continuous delivery & deployment (CD)
 
 Med continuous delivery avses att varje bygge teamet levererar kan släppas ut i produktion genom automatiserade flöden
 som vidare testar och deployar koden till kunden.
+
+Referenser:
+https://www.frontit.se/articles/devops-ci-cd-vad-betyder-det-egentligen/
+https://www.youtube.com/watch?v=scEDHsr3APg
