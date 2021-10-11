@@ -11,11 +11,10 @@ def cube():
             print("Please insert number values, for example 10, 25.5 , 100 etc.")
 
 def octagon_area():
-    octagon_side = eval(input(f'\nInsert octagon side length in centimeters '))
-    octagon_area = 2*octagon_side*2(1+math.sqrt(2))
+    side = eval(input(f'\nInsert octagon side length in centimeters '))
+    area = 2*side*2*(1+math.sqrt(2))
 
-    octagon_output = f'\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\nThe area of your octagon is {octagon_area} cm^2\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
-    return octagon_output
+    return f'\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\nThe area of your octagon is {int(area)} cm^2\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
 
 #Här under hittar ni era namn där ni ska ange funktionen ni vill anropa som ni får definiera här ovanför.
 #ändra choice text strängen med er valda objekt.
@@ -26,12 +25,15 @@ while True:
         if choice == 1:
             cube()
         elif choice == 2:
-            Carl()
+            # Carl()
+            print('carl')
         elif choice == 3:
             print(octagon_area())
         elif choice == 4:
-            Ian()
+            # Ian()
+            print('ian')
         elif choice == 5:
-            Erik()
+            # Erik()
+            print('erik')
     except NameError:
         print("Error! Error! Error! Invalid input, try again.")
