@@ -18,6 +18,14 @@ def octagon_area():
 
 #Här under hittar ni era namn där ni ska ange funktionen ni vill anropa som ni får definiera här ovanför.
 #ändra choice text strängen med er valda objekt.
+<<<<<<< HEAD
+=======
+def cylinder():
+    height = eval(input("Insert height of the cylinder \n"))
+    radius = eval(input("Insert radius of the cylinder \n"))
+    cylinder_volume = (math.pi) * radius ** 2 * height
+    print(f">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\nThe volume of the cylinder is {cylinder_volume}m^3\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+>>>>>>> erle
 
 while True:
     try:
@@ -34,6 +42,10 @@ while True:
             print('ian')
         elif choice == 5:
             # Erik()
+<<<<<<< HEAD
             print('erik')
+=======
+            cylinder()
+>>>>>>> erle
     except NameError:
         print("Error! Error! Error! Invalid input, try again.")
